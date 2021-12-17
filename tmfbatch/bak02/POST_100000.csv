@@ -1,0 +1,3 @@
+time,method,number of record,elapsed time
+2021/08/08 15:14:24,POST,100000,34
+2021/08/08 15:48:56,POST,200000,21
